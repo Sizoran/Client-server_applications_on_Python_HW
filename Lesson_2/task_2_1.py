@@ -66,7 +66,7 @@ def get_data():
 
     def write_to_csv():
         with open('data_report.csv', 'w', encoding='utf-8') as file_report:
-            F_N_WRITER = csv.writer(file_report)
+            F_N_WRITER = csv.writer(file_report, lineterminator='\r')
             F_N_WRITER.writerows(rotated_mane_data)
 
     write_to_csv()
