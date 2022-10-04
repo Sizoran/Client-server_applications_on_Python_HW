@@ -1,0 +1,13 @@
+items:
+- Notebook
+- ipad
+- mouse
+- monitor
+- coffee
+items_price:
+  Notebook: 1000$ - 3000$
+  coffee: 5€
+  ipad: 300€ - 1000€
+  monitor: 760€
+  mouse: 50€
+items_quantity: 5
