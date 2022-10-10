@@ -1,6 +1,10 @@
 """Тесты для программы Клиента"""
 
+
+import sys
+import os
 import unittest
+sys.path.append(os.path.join(os.getcwd(), '..'))
 from client import create_presence, process_ans
 from common.variables import ACTION, PRESENCE, TIME, USER, ACCOUNT_NAME, RESPONSE, \
     ERROR
