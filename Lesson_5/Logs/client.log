@@ -1,0 +1,11 @@
+2022-10-14 15:20:50,209 CRITICAL client_log_config.py Test critical event
+2022-10-14 15:20:50,209 ERROR client_log_config.py Test error event
+2022-10-14 15:20:50,209 DEBUG client_log_config.py Test debug event
+2022-10-14 15:20:50,209 INFO client_log_config.py Test info event
+2022-10-14 15:56:30,587 CRITICAL client_log_config.py Test critical event
+2022-10-14 15:56:30,587 ERROR client_log_config.py Test error event
+2022-10-14 15:56:30,587 DEBUG client_log_config.py Test debug event
+2022-10-14 15:56:30,587 INFO client_log_config.py Test info event
+2022-10-14 15:56:45,650 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2022-10-14 15:56:45,650 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2022-10-14 15:56:45,651 INFO client.py Принят ответ от сервера 200 : OK

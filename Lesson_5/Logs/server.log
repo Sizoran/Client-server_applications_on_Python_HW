@@ -1,0 +1,17 @@
+2022-10-14 15:20:42,655 CRITICAL server_log_config.py Test critical event
+2022-10-14 15:20:42,655 ERROR server_log_config.py Test error event
+2022-10-14 15:20:42,655 DEBUG server_log_config.py Test debug event
+2022-10-14 15:20:42,655 INFO server_log_config.py Test info event
+2022-10-14 15:36:04,714 CRITICAL server_log_config.py Test critical event
+2022-10-14 15:36:04,714 ERROR server_log_config.py Test error event
+2022-10-14 15:36:04,714 DEBUG server_log_config.py Test debug event
+2022-10-14 15:36:04,714 INFO server_log_config.py Test info event
+2022-10-14 15:56:25,725 CRITICAL server_log_config.py Test critical event
+2022-10-14 15:56:25,725 ERROR server_log_config.py Test error event
+2022-10-14 15:56:25,726 DEBUG server_log_config.py Test debug event
+2022-10-14 15:56:25,726 INFO server_log_config.py Test info event
+2022-10-14 15:56:45,650 INFO server.py Установлено соедение с ПК ('127.0.0.1', 53014)
+2022-10-14 15:56:45,650 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1665752205.650627, 'user': {'account_name': 'Guest'}}
+2022-10-14 15:56:45,650 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1665752205.650627, 'user': {'account_name': 'Guest'}}
+2022-10-14 15:56:45,650 INFO server.py Подготовлен ответ клиенту {'response': 200}
+2022-10-14 15:56:45,650 DEBUG server.py Соединение с клиентом ('127.0.0.1', 53014) закрывается.
